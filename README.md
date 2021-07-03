@@ -9,6 +9,9 @@ This page will host all resources (readings/videos/assgnments/etc) for various p
 ## SRAM Project
 The goal of this project is to analyze, design, simulate and layout and the entire 6T-based SRAM IP Block in 0.5um SCMOS Technology.
 
+**ASSIGNMENT**
+- [10 Jul 2021] : Design a 6T-SRAM Cell for minimum area using the 0.5um SCMOS technology.
+
 **READING AND VISUAL MATERIALS**
 
 - **VIDEOS**:
