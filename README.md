@@ -1,5 +1,5 @@
 # Project2021
-This repository helps you to work in SRAM projects. 
+This repository will help you to work in SRAM projects. 
 
 ## SRAM Project
 ### Reading and Visual Materials
