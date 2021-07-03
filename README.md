@@ -25,4 +25,14 @@ The goal of this project is to analyze, design, simulate and layout and the enti
 - **EXCERCISE PROBLEM**:
   - [Kang] Example **10.1**, Exercise **10.4, 10.5, 10.6**
   - [Hodges] Example **8.2**
+
+## MOSIS Scalable CMOS ([SCMOS]/scn4m_subm)
+[SCMOS] is a *lambda-based* scalable design rules that can be interfaced to many CMOS fabrication process available at MOSIS. **NOTE** The scalable design rules does not interface with Fabs now because of lot unique process nuances.
+
+- The Spice model files are located at `<INSTALL-DIR>/eda-technology/scn4m_subm/models/scn4m_cnrs_bsim3v1.lib`
+- Typical MOS parameters:
+  - **NMOS**: tox=7.6nm, nch=1.7e17/cm^3, Vt0=0.49V, un(mobility)=445 cm^2/Vs
+  - **PMOS**: tox=7.6nm, nch=1.7e17/cm^3, Vt0=-0.66V, up(mobility)=151 cm^2/Vs
+  - Vdd=5V, Lmin=0.4um, Wmin=0.6um
+
  
