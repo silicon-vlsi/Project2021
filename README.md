@@ -15,9 +15,11 @@ The goal of this project is to analyze, design, simulate and layout and the enti
   - [SI2021-03-CMOS-VLSI Lecture](https://www.youtube.com/watch?v=MkMEq4zO9Pc): Semiconductor Memory basics & 6T-SRAM Cell design.
 
 - **SUGGESTED READINGS**:
-  - [Kang] Section **8.2**, **Chapter 8** : Behaviour of Bistable Elements 
-  - [Kang] Section **10.1** :Introduction to Semiconductor Memories , Section **10.3**, **Chapter 10**: Static Random Access Memory.
+  - [Kang] Section **8.2**: Behaviour of Bistable Elements 
+  - [Kang] Section **10.1** & [Hodges]-**8.1**: Introduction to Semiconductor Memories
+  - [Kang] Section **10.3** & [Hodges]-**8.3**: Static Random Access Memory.
  
 - **EXCERCISE PROBLEM**:
   - [Kang] Example **10.1**, Exercise **10.4, 10.5, 10.6**
+  - [Hodges] Example **8.2**
  
